@@ -1,0 +1,6 @@
+{
+  "name": "나혼자 잘산다 - 1인 가구 자취 통합 관리",
+  "description": "분리수거 요일 알림, 냉장고 유통기한 및 영수증 자동 등록, 식비 절약 통계, 공과금 1/N 분할 정산까지 한 번에 관리하는 1인 가구 필수 라이프 매니저",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
